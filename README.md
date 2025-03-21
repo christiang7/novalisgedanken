@@ -1,2 +1,3 @@
 # novalisgedanken
-proxy for website
+
+https://christiang7.github.io/website/#/
