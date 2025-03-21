@@ -1,4 +1,6 @@
 # Old Website 
 
-go to https://christiang7.github.io/website/#/
+Here to the new website
+
+https://christiang7.github.io/website/#/
 
